@@ -9,6 +9,6 @@ Repository = "https://github.com/JustinMatters/comfyUI-JMNodes"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "jmnodes"
 DisplayName = "comfyUI-JMNodes"
 Icon = ""
